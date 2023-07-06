@@ -7,3 +7,4 @@ Topics cleared in this tutorial are as follows:
 4. useRef Hook: it lets you reference a value that’s not needed for rendering.
 5. useContext Hook: it lets you read and subscribe to context from your component.
 6. useReducer Hook: it lets you add a reducer to your component.
+7. useCallBack Hook: it lets you cache a function definition between re-renders.

@@ -6,6 +6,7 @@ import ThirdHook from './components/ThirdHook';
 import FourthHook from './components/FourthHook';
 import FifthHook from './components/FifthHook';
 import SixthHook from './components/SixthHook';
+import SeventhHook from './components/SeventhHook';
 
 function App() {
   return (
@@ -26,7 +27,10 @@ function App() {
       {/* <FifthHook/> */}
     
     {/* useReducer Hook: it lets you add a reducer to your component. */}
-      <SixthHook/>
+      {/* <SixthHook/> */}
+    
+    {/* useCallBack Hook: it lets you cache a function definition between re-renders. */}
+      <SeventhHook/>
     </>
   );
 }
