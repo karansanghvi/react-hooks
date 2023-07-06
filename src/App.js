@@ -7,6 +7,7 @@ import FourthHook from './components/FourthHook';
 import FifthHook from './components/FifthHook';
 import SixthHook from './components/SixthHook';
 import SeventhHook from './components/SeventhHook';
+import EightHook from './components/EightHook';
 
 function App() {
   return (
@@ -30,7 +31,10 @@ function App() {
       {/* <SixthHook/> */}
     
     {/* useCallBack Hook: it lets you cache a function definition between re-renders. */}
-      <SeventhHook/>
+      {/* <SeventhHook/> */}
+    
+    {/* Custom Hooks */}
+      <EightHook/>
     </>
   );
 }

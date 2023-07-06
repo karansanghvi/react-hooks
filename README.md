@@ -8,3 +8,4 @@ Topics cleared in this tutorial are as follows:
 5. useContext Hook: it lets you read and subscribe to context from your component.
 6. useReducer Hook: it lets you add a reducer to your component.
 7. useCallBack Hook: it lets you cache a function definition between re-renders.
+8. Custom Hooks
